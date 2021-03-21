@@ -4,7 +4,7 @@ class main:
     
   def sxp(self):
     import os
-    os.system("python login.py")
+    os.system("python $HOME/UNFAEDAH/src/login.py")
 
 if __name__ == "__main__":
   main()
